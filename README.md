@@ -1,6 +1,6 @@
-# 🤔Alignment-for-audio-feature-and-video-frames 👍
-![Language](https://img.shields.io/badge/language-c++-brightgreen) 
-## 😙1.Motivation❓
+# 😙Alignment-for-audio-feature-and-video-frames 👍
+![Language](https://img.shields.io/badge/language-python-blueviolet) 
+## 1.Motivation 🤔 ❓ 
 
 + 在Talking Head任务中，需要满足音频视频同步
 + 音频主要送入网络的是音频特征，常见的音频特征
